@@ -31,7 +31,7 @@ The data of the analyses is stored to SQLite DB. There are two endpoints
 3. Create a .env file:
 
    ```bash
-   OPENAI_API_KEY="sk-..."
+   OPENAI_API_KEY="<your key here>"
    ```
 
 4. Start the app:
